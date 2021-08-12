@@ -1,5 +1,5 @@
-Sneakers-E-Commerce
-Django / Vue E Commerce
+<h1>Sneakers-E-Commerce</h1>
+<h4><strong>Django / Vue E Commerce</strong></h4>
 
 I build an e-commerce website using Django and Vue from scratch. Django uses Python Vue uses JavaScript.
 
